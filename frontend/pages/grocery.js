@@ -2,7 +2,7 @@ import Layout from "../components/Layout";
 
 function Grocery(){
   return(
-    <Layout>
+    <Layout title = "Shope">
       <h1>This is shop</h1>
     </Layout>
   );

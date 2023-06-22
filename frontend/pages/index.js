@@ -2,7 +2,7 @@ import Layout from "../components/Layout";
 
 function Homepage() {
   return (
-    <Layout>
+    <Layout title="Welcome">
       <div className="row">
         <div className="col-lg-12">
           <div className="card" style={{ maxHeight: '15rem', color: '#0a7151' }}>
